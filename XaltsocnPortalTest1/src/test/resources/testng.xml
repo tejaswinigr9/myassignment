@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="XaltsocnPortalTests">
+    <test name="LoginTests">
+        <classes>
+            <class name="com.xalts.SignUpTest"/>
+            <class name="com.xalts.SignInTest"/>
+            <class name="com.xalts.SignOutTest"/>
+        </classes>
+    </test>
+</suite>
